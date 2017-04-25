@@ -9,7 +9,7 @@ Bugs/Crashes should Include the following and be titled as so and also labled as
 [BUG] Some title
 
 - [ ] iOS Version
-- [ ] Twitter Version
+- [ ] Snapchat Version
 - [ ] SC ++ Tweak Version
 - [ ] Crash Report: http://tweakcrashed.com
 - [ ] Please label the issue either Jailbreak or Sideloaded
