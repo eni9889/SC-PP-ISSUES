@@ -22,3 +22,7 @@ Feature Requests should include the following:
 - [ ] If possible feature screenshots
 
 Please note this repo is not for Ad Removal issues. If you are having ad removal issues please contact me at support@unlimapps.com
+
+Any issues about account locks will be removed. There is no perfect way to "beat" DRM so there is always a risk to using third party a tweak, and you must agree to the below before you can use the tweak.
+
+![alt text](IMG_0511.jpg)
